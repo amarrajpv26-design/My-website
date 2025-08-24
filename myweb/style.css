@@ -1,0 +1,36 @@
+ body{
+  background-color:grey
+ }   
+.nav-link{
+  color:azure !important;
+}
+ .nav-link:hover{
+  color:greenyellow !important;
+ }
+ .contact{
+  
+  text-decoration: none;
+  color: white
+ }
+ .contact:hover{
+  color: blueviolet;
+ }
+ #footer{
+  height: 210px;
+  background-color: black  ;
+  padding-top: 20px;
+ }
+ #footer1{
+  
+  border-top: 0.5px solid rgb(70, 69, 69);
+  background-color: black;
+  height: 60px;
+  color: rgb(130, 130, 130);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+ }
+  #footer1:hover {
+  color: aliceblue;
+}
